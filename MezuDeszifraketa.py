@@ -1,5 +1,3 @@
-#name = input("Inscribe tu nombre: ")
-#print("Hey, que tal ", name)
 import string
 from collections import Counter
 def deszifratuAutomatiko():
